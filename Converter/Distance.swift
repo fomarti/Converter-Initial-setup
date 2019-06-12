@@ -22,6 +22,7 @@ import UIKit
 class Distance {
     static let kmPerMile = 1.6
     static let mPerMile = 1609
+    static let mPerKm = 1000
     
     var miles:Double
     var km:Double {
